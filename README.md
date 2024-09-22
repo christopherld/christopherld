@@ -1,3 +1,1 @@
-- 👀 Coding games and websites are two things i find very interesting to me
-- I am currently working on a project that i started a couple years ago, and now i am working on coding it through Oculus Developer's Hub
 - Provisional Patent:  AUGMENTED REALITY DEVICE HAVING FACIAL RECOGNITION FOR ASSISTING THOSE WITH DEMENTIA, filed on August 25 2022
